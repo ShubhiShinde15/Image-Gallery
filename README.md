@@ -1,0 +1,1 @@
+This project is an image gallery that provides a visually appealing way to showcase and organize images. It is designed to be a simple and user-friendly solution for displaying and managing a collection of images,with some basics off css starting.
